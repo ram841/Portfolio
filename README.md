@@ -1,0 +1,1 @@
+A modern portfolio website built to showcase my full-stack development projects (React + Spring Boot), technical skills, and problem-solving abilities as an MCA student preparing for software engineering roles.
